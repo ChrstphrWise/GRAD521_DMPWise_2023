@@ -32,7 +32,7 @@ To ensure this data stays preserved for future use, two copies are created on ph
 3.	Excel spreadsheets
 4.	PDF documents 
 5.	JPEG files
-6.	LunaFiber case downloads
+6.	LunaFiber case downloads <br />
 Many of these files are accessed only through proprietary software that requires money to access. Matlab, LabVIEW, and LunaFiber ODISI program files require software subscriptions and unfortunately cannot be changed to any other format. This, of course, can be remedied by including descriptions of their purpose and an instructional guide as to how they can be created on other software, however in the long run this damages the project’s ability to be shared between platforms. 
 
 # Archiving and preservation
