@@ -44,15 +44,4 @@ To ensure this data stays preserved for future use, two copies are created on ph
 
 <br /> Many of these files are accessed only through proprietary software that requires money to access. Matlab, LabVIEW, and LunaFiber ODISI program files require software subscriptions and unfortunately cannot be changed to any other format. This, of course, can be remedied by including descriptions of their purpose and an instructional guide as to how they can be created on other software, however in the long run this damages the project’s ability to be shared between platforms. 
 
-# Archiving and preservation
-Sharing data is important to advance research in a collaborative effort between researchers. There are, however, important caveats that require data be stored securely or strictly internally such as NDA agreements on data or other confidential aspects of research for private companies/institutions. The project that I am currently working on requires it be kept internal to the project sponsor, which means data collected over the course of the project will be kept private until a limited release is approved. This limited release can include conclusions and methods, along with the metadata affiliated with them. <br /> 
-To ensure this data stays preserved for future use, two copies are created on physical devices/drives. All data and processes used to collect the data are stored locally on a computer that can only be accessed by myself, as well as a separate physical drive that is archived with other previous work done in the lab. These archived projects are kept for a period of 5 years before they are reorganized to make space for new projects. Organization inside the project files then is key to ensure that reproducibility is possible in the future. A document is included with instructions on how to reproduce the experiment, as well as detailed metadata associated with how each variable is included in the project files. The space where the storage drives are held is locked until access is given by the PI. The files that are preserved in project files can vary due to the different software that is employed from project to project. For this research, there are six main project file types: <br />
-1.	Matlab code 
-2.	LabVIEW case files
-3.	Excel spreadsheets
-4.	PDF documents 
-5.	JPEG files
-6.	LunaFiber case downloads <br />
-7.	
-Many of these files are accessed only through proprietary software that requires money to access. Matlab, LabVIEW, and LunaFiber ODISI program files require software subscriptions and unfortunately cannot be changed to any other format. This, of course, can be remedied by including descriptions of their purpose and an instructional guide as to how they can be created on other software, however in the long run this damages the project’s ability to be shared between platforms. 
 
